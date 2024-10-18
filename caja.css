@@ -1,10 +1,10 @@
 body {
-    background-color: gainsboro
+    background-color: gainsboro;
+    color: aqua;
 }
 
 .cajones {
     background-color: black;
-    color: white;
     margin: 5px;
     margin-left: 175px;
     padding: 10px;
